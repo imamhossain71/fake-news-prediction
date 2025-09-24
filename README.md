@@ -32,3 +32,7 @@ git clone https://github.com/imamhossain71/fake_news_prediction.git
 cd fake-news-prediction
 
 ```
+
+## output screenshort
+
+![alt text](commonword-ss.png)
